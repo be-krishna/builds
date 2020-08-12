@@ -11,11 +11,11 @@
 * Feature to download the notifications
 
 # Compatability 
-> ***notifier-1.0.0-armeabi-v7a-release.apk*** will be compatible for most of the devices.
+> ***notifier-v-armeabi-v7a-release.apk*** will be compatible for most of the devices.
 >
-> ***notifier-1.0.0-arm64-v8a-release.apk*** will work fine with newer devices.
+> ***notifier-v-arm64-v8a-release.apk*** will work fine with newer devices.
 >
-> ***notifier-1.0.0-x86_64-release.apk*** in case of much older devices.
+> ***notifier-v-x86_64-release.apk*** in case of much older devices.
 
 
 
