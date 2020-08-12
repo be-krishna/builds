@@ -6,11 +6,11 @@
 # Latest Release v1.0.1
 * Local in-app download support added.
 
-# Initial Release
+# Initial Release v1.0.0
 * Shows latest 50 notification
 * Feature to download the notifications
 
-# Compatability v1.0.0
+# Compatability 
 > ***notifier-1.0.0-armeabi-v7a-release.apk*** will be compatible for most of the devices.
 >
 > ***notifier-1.0.0-arm64-v8a-release.apk*** will work fine with newer devices.
